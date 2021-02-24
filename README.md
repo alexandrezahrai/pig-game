@@ -1,3 +1,3 @@
 # Pig Game
 
-Live Preview: 
+Live Preview: https://alexandrezahrai.github.io/pig-game/index.html
